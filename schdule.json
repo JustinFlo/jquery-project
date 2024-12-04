@@ -1,0 +1,95 @@
+{
+    "Schedule": [
+        {
+            "class": "Physical Education/Health",
+            "teacher": "Ms. Razzino",
+            "room": "GYM",
+            "period": 1,
+            "days": [
+                "A",
+                "B",
+                "C",
+                "E",
+                "F"
+            ]
+        },
+        {
+            "class": "AP Computer Science A",
+            "teacher": "Ms. Hoagland",
+            "room": "B108",
+            "period": 2,
+            "days": [
+                "A",
+                "B",
+                "D",
+                "E",
+                "F"
+            ]
+        },
+        {
+            "class": "Honors NJIT Advanced Web",
+            "teacher": "Mrs. Herbert",
+            "room": "B114",
+            "period": 3,
+            "days": [
+                "A",
+                "C",
+                "D",
+                "E",
+                "G"
+            ]
+        },
+        {
+            "class": "Sports Marketing/Financial Lit",
+            "teacher": "Mr. LaVine",
+            "room": "D103",
+            "period": 4,
+            "days": [
+                "B",
+                "C",
+                "D",
+                "F",
+                "G"
+            ]
+        },
+        {
+            "class": "AP English Lit",
+            "teacher": "That One Guy Who Isn't Handsome",
+            "room": "C100",
+            "period": 5,
+            "days": [
+                "A",
+                "B",
+                "D",
+                "E",
+                "G"
+            ]
+        },
+        {
+            "class": "AP Psychology",
+            "teacher": "Mrs. Brusotti",
+            "room": "G108",
+            "period": 6,
+            "days": [
+                "A",
+                "C",
+                "D",
+                "F",
+                "G"
+            ]
+        },
+        {
+            "class": "Honors Pre-Calculus",
+            "teacher": "Mrs. Palughi",
+            "room": "D209",
+            "period": 7,
+            "days": [
+                "B",
+                "C",
+                "E",
+                "F",
+                "G"
+            ]
+        }
+    ]
+}
