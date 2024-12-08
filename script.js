@@ -12,7 +12,7 @@ $('#submitDay').click (()=> {
             return;
         }   else {
             $.ajax({
-                url: 'https://api.npoint.io/0d8f38413549540fa060',
+                url: 'https://api.npoint.io/949bdfd66401dab4585c',
                 method: 'GET',
                 success: function (data)
             })
