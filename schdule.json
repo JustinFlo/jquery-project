@@ -1,95 +1,97 @@
 {
     "Schedule": [
         {
+            "days": [
+                "A",
+                "B",
+                "C",
+                "E",
+                "F"
+            ],
+            "room": "GYM", 
             "class": "Physical Education/Health",
-            "teacher": "Ms. Razzino",
-            "room": "GYM",
-            "period": 1,
+            "period": 1 ,
+            "teacher": "Ms. Razzino"
+           
+        },
+        {
             "days": [
                 "A",
                 "B",
-                "C",
+                "D",
                 "E",
                 "F"
-            ]
-        },
-        {
+            ],
+            "room": "B108", 
             "class": "AP Computer Science A",
-            "teacher": "Ms. Hoagland",
-            "room": "B108",
             "period": 2,
-            "days": [
+            "teacher": "Ms. Hoagland"
+        },
+        {    "days": [
                 "A",
-                "B",
+                "C",
                 "D",
                 "E",
-                "F"
-            ]
-        },
-        {
-            "class": "Honors NJIT Advanced Web",
-            "teacher": "Mrs. Herbert",
+                "G"
+            ],
             "room": "B114",
+            "class": "Honors NJIT Advanced Web",
             "period": 3,
-            "days": [
-                "A",
+            "teacher": "Mrs. Herbert"
+
+        },
+        {    "days": [
+                "B",
                 "C",
                 "D",
-                "E",
+                "F",
                 "G"
-            ]
-        },
-        {
-            "class": "Sports Marketing/Financial Lit",
-            "teacher": "Mr. LaVine",
-            "room": "D103",
+            ],
+           "room": "D103",
+             "class": "Sports Marketing/Financial Lit",
             "period": 4,
-            "days": [
-                "B",
-                "C",
-                "D",
-                "F",
-                "G"
-            ]
+            "teacher": "Mr. LaVine"
+
         },
-        {
-            "class": "AP English Lit",
-            "teacher": "That One Guy Who Isn't Handsome",
+        {     "days": [
+                "A",
+                "B",
+                "D",
+                "E",
+                "G"
+            ],
             "room": "C100",
-            "period": 5,
-            "days": [
-                "A",
-                "B",
-                "D",
-                "E",
-                "G"
-            ]
+           "class": "AP English Lit",
+            "period": 5, 
+            "teacher": "That One Guy Who Isn't Handsome"
+
         },
-        {
-            "class": "AP Psychology",
-            "teacher": "Mrs. Brusotti",
+        {            "days": [
+                "A",
+                "C",
+                "D",
+                "F",
+                "G"
+            ],
             "room": "G108",
+            "class": "AP Psychology",
             "period": 6,
-            "days": [
-                "A",
-                "C",
-                "D",
-                "F",
-                "G"
-            ]
+            "teacher": "Mrs. Brusotti"
+
         },
-        {
-            "class": "Honors Pre-Calculus",
-            "teacher": "Mrs. Palughi",
-            "room": "D209",
-            "period": 7,
-            "days": [
+        {            "days": [
                 "B",
                 "C",
                 "E",
                 "F",
                 "G"
-            ]
+            ],
+            "room": "D209",
+            "class": "Honors Pre-Calculus",
+             "period": 7,
+            "teacher": "Mrs. Palughi"
+           
+
         }
     ]
 }
