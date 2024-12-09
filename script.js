@@ -14,7 +14,23 @@ $('#submitDay').click (()=> {
             $.ajax({
                 url: 'https://api.npoint.io/949bdfd66401dab4585c',
                 method: 'GET',
-                success: function (data)
+                success: function (data) {
+                    const schedule = data.sceduele
+                    console.log(schedule)
+
+                    const dayScehule = schedule.filter(item => item.days.includes(selectedDay))
+                    console.log(dayScehule)
+
+                    renderHTML(dayScehule)
+                }
+            })
+        }
+
+        function renderHTML(dayScehule){
+            $("scheduleList").empty()
+            var htmlString = ''
+            dayScehule.forEach(function (classItem) {
+                
             })
         }
 
