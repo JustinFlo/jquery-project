@@ -1,0 +1,53 @@
+{
+    "schedule": [
+        {
+            "days": [ "A","B","C","E","F" ],
+            "room": "B100", 
+            "class": "Physical Education/Health",
+            "period": "1",
+            "teacher": "Ms. Razzino"
+           
+        },
+        {
+            "days": ["A","B", "D", "E","F"],
+            "room": "B108", 
+            "class": "AP Computer Science A",
+            "period": "2",
+            "teacher": "Ms. Hoagland"
+        },
+        {    "days": [ "A", "C", "D", "E", "G" ],
+            "room": "B114",
+            "class": "Honors NJIT Advanced Web",
+            "period": "3",
+            "teacher": "Mrs. Herbert"
+
+        },
+        {    "days": [ "B", "C", "D", "F", "G"],
+           "room": "D103",
+             "class": "Sports Marketing/Financial Lit",
+            "period": "4",
+            "teacher": "Mr. LaVine"
+
+        },
+        {     "days": [ "A","B","D","E", "G"],
+            "room": "C100",
+           "class": "AP English Lit",
+            "period": "5", 
+            "teacher": "That One Guy Who Isn't Handsome"
+
+        },
+        {      "days": ["A", "C", "D", "F", "G" ],
+            "room": "G108",
+            "class": "AP Psychology",
+            "period": "6",
+            "teacher": "Mrs. Brusotti"
+
+        },
+        {    "days": [ "B", "C", "E", "F", "G"],
+            "room": "D209",
+            "class": "Honors Pre-Calculus",
+             "period": "7",
+            "teacher": "Mrs. Palughi"
+        }
+    ]
+}
